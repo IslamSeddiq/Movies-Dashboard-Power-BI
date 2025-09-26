@@ -12,8 +12,11 @@ I'm a Junior Data Analyst with a passion for turning raw data into actionable in
 ## 🎯 Key Features
 
 **KPIs Tracking** ----> Average ROI, Total Budget, Total Gross, Total Profit
+
 **Films Overview Page** ----> ROI by genre, gross vs. profit vs. budget, top directors & stars, yearly trends
+
 **Genre & Ratings Page** ----> film distribution by ratings, votes, and release month
+
 **Company & Country Page** ----> profitability by production companies and geographic performance
 
 ## 🛠 Tools & Skills Used
